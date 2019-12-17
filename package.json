@@ -50,5 +50,9 @@
   "dependencies": {},
   "author": "shinhwagk",
   "license": "MIT",
-  "publisher": "shinhwagk"
+  "publisher": "shinhwagk",
+  "repository": {
+    "url": "https://github.com/shinhwagk/vscode-mkstring",
+    "type": "git"
+  }
 }
