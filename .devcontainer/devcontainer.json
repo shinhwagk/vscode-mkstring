@@ -1,0 +1,13 @@
+{
+	"name": "mkstring",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	
+	"postCreateCommand": "npm install",
+	"extensions": [
+		"dbaeumer.vscode-eslint"
+	],
+	"context": ".."
+}
