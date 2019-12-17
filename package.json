@@ -23,7 +23,7 @@
     "menus": {
       "editor/context": [
         {
-          "group":"mkstring",
+          "group": "mkstring",
           "command": "extension.mkstring",
           "when": "editorLangId == plaintext"
         }
@@ -49,5 +49,6 @@
   },
   "dependencies": {},
   "author": "shinhwagk",
-  "license": "MIT"
+  "license": "MIT",
+  "publisher": "shinhwagk"
 }
