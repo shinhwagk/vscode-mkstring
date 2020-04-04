@@ -2,7 +2,7 @@
   "name": "mkstring",
   "displayName": "mkstring",
   "description": "This is the README for your extension \"mkstring\". After writing up a brief description, we recommend including the following sections.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.40.0"
   },
