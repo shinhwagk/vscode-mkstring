@@ -1,9 +1,9 @@
 # mkstring README
 
-### Useage
+### Usage
 > Right Click -> `mkstring` on plaintext
 
-### effect
+### default effect
 ```txt
 1
 2
@@ -13,4 +13,17 @@
 to 
 ```txt
 ('1','2','3','4')
+```
+
+### custom effect (use symbols)
+```txt
+# < > - "
+1
+2
+3
+4
+```
+to 
+```txt
+<"1"-"2"-"3"-"4">
 ```
