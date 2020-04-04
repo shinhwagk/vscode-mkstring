@@ -1,7 +1,7 @@
 # vscode-mkstring
 
 ### Usage
-> Right Click -> `mkstring` on plaintext
+> Right Click(and selection) -> `mkstring` on plaintext
 
 ### default effect
 ```txt
