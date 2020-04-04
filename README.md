@@ -1,4 +1,4 @@
-# mkstring README
+# vscode-mkstring
 
 ### Usage
 > Right Click -> `mkstring` on plaintext
